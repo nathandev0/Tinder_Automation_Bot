@@ -3,12 +3,12 @@
 </p>
 <h1 align="center"> ⬆️ Tinder Automation Bot (iOS, Android) </h1>
 <p align="center"><strong>Appium</strong>-based automated <strong>Tinder account creation</strong> and <strong> swiper on real devices</strong>.</p>
-<h2 id="contact"> 👀 Functionality:</h2>
+<h2 id="contact"> 👀 Functionality: </h2>
 
 - **1) Automated account creation**
 - **2) Automated swiping**
 
-  *and more..*
+*and more...*
 
 <h2 id="contact"> 🔗 Integrations: </h2>
 

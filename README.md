@@ -21,8 +21,6 @@
 - **2) Anti-bot system** (human behavior modeling)
 - **3) IP rotation system** (different ip address for each container)
 - **4) GPS location spoofing** (different gps coordinates for each container)
-- **5) No limit on number of devices** (depending on your pc / laptop hardware)
-- **6) Compatible with Windows and macOS**
 
 <h2 id="contact"> 💬 Contact</h2>
 

@@ -2,7 +2,7 @@
 <img src="https://github.com/nathandev0/Tinder_Automation_Bot/blob/b6335f65b135283a022e46d17f904371cf392e4e/Demo.gif" alt="video working"/>
 </p>
 <h1 align="center"> ⬆️ Tinder Automation Bot (iOS, Android) </h1>
-<p align="center"><strong>Appium</strong>-based automated <strong>Tinder account creation</strong> and <strong> swiper on real devices</strong>.</p>
+<p align="center"><strong>Appium</strong>-based automated <strong>Tinder account creation</strong> and <strong> swiping on real devices</strong>.</p>
 <h2 id="contact"> 👀 Functionality: </h2>
 
 - **1) Automated account creation**

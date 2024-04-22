@@ -13,7 +13,7 @@
 <h2 id="contact"> 🔗 Integrations: </h2>
 
 - **1) Crane tweak integration** (new container for each account)
-- **2) SMSActivate & SMSPool service integrations** (high qualty phone number for each account)
+- **2) SMSPool service integration** (high qualty phone number for each account)
 
 <h2 id="contact"> 📝 Additional information: </h2>
 

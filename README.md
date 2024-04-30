@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/nathandev0/Tinder_Automation_Bot/blob/f0f97ebdfadf52ba9694d28a4c290f7a9ab60042/src/demo.gif" alt="video working"/>
+<img src="https://github.com/nathandev0/Tinder_Automation_Bot/blob/53b252ab4960ea47b78d0b90e70c9c4bd5be095e/src/demo.gif" alt="video working"/>
 </p>
 <h1 align="center"> ⬆️ Tinder Automation Bot (iOS, Android) </h1>
 <p align="center"><strong>Appium</strong>-based automated <strong>Tinder account creation</strong> and <strong> swiping on real devices</strong>.</p>

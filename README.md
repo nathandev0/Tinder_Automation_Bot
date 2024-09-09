@@ -15,7 +15,7 @@
 - **8) IP address rotation** (unique ip address for each container / app clone)
 - **9) GPS location spoofing** (set gps coordinates for each container / app clone)
 - **10) Support of various SMS verification providers** (SMSDaisy, SMSPool, SMSActivate)
-
+- **11) Jailbreak detection bypass**
 
 *and more...* 
 

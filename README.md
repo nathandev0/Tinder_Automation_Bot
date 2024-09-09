@@ -12,10 +12,10 @@
 - **5) Automated deletion of uploaded pictures from device**
 - **6) Automated swiping with detailed statistics**
 - **7) Automated shadow ban detection**
-- **8) IP address rotation** (unique ip address for each container / app clone)
-- **9) GPS location spoofing** (set gps coordinates for each container / app clone)
-- **10) Support of various SMS verification providers** (SMSDaisy, SMSPool, SMSActivate)
-- **11) Jailbreak detection bypass**
+- **8) Jailbreak detection bypass**
+- **9) IP address rotation** (unique ip address for each container / app clone)
+- **10) GPS location spoofing** (set gps coordinates for each container / app clone)
+- **11) Support of various SMS verification providers** (SMSDaisy, SMSPool, SMSActivate)
 
 *and more...* 
 

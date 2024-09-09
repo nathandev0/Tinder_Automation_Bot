@@ -5,22 +5,27 @@
 <p align="center"><strong>Appium</strong>-based automated <strong>Tinder account creation</strong> and <strong> swiping on real devices</strong>.</p>
 <h2 id="contact"> 👀 Functionality: </h2>
 
-- **1) Automated account creation**
-- **2) Automated swiping**
+- **1) Automated account creation** (customizable account name, age, gender, orientation, distance, education, interests, bio)
+- **2) Crane container management** (automated creation and deletion of crane containers)
+- **3) App clone management** (automated installation and deletion of app clones)
+- **4) Automated token extraction with export to google sheet**
+- **5) Automated deletion of uploaded pictures from device**
+- **6) Automated swiping with detailed statistics**
+- **7) Automated shadow ban detection**
+- **8) IP address rotation** (unique ip address for each container / app clone)
+- **9) GPS location spoofing** (set gps coordinates for each container / app clone)
+- **10) Support of various SMS verification providers** (SMSDaisy, SMSPool, SMSActivate)
 
-*and more...*
 
-<h2 id="contact"> 🔗 Integrations: </h2>
-
-- **1) Crane tweak integration** (new container for each account)
-- **2) SMSPool service integration** (high qualty phone number for each account)
+*and more...* 
 
 <h2 id="contact"> 📝 Additional information: </h2>
 
-- **1) Device & Automation management system**
+- **1) Device & Automation management system with task scheduling**
 - **2) Anti-bot system** (human behavior modeling)
-- **3) IP rotation system** (different ip address for each container)
-- **4) GPS location spoofing** (different gps coordinates for each container)
+- **3) Cross-platform compatibility** (Windows and macOS)
+- **4) Fully compatible with low-cost older phone models** (iPhone 8 / 8+ / X / XS / XR / SE / 11 / 12)
+- **5) Multithreading with no device limit**
 
 <h2 id="contact"> ⚙️ Other automation bots: </h2>
 

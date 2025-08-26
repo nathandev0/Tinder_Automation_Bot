@@ -18,7 +18,7 @@
 
 *and more...* 
 
-<h2 id="contact"> 📝 Additional information: </h2>
+<h2 id="contact"> 📝 Additional information:</h2>
 
 - **1) Device & Automation management system with task scheduling**
 - **2) Anti-bot system** (human behavior modeling)
